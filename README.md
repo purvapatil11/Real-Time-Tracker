@@ -55,8 +55,7 @@ npm start
 ---
 ## License
 
-This project is licensed under the MIT License
-
-you are free to use this repo  and integrate into your own projects
+1. This project is licensed under the MIT License
+2. you are free to use this repo  and integrate into your own projects as a feature.
 ---
 
